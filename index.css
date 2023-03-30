@@ -62,7 +62,7 @@ p {
 
 .shortener img {
   height: 17.188rem;
-  @apply w-full rounded-lg;
+  @apply w-full ;
 }
 
 .shortener .form {
@@ -85,7 +85,7 @@ p {
   }
 
   .line {
-    @apply bg-cyan-500 h-2 w-full absolute;
+    @apply bg-cyan-500 ;
     top: 50%;
   }
 }
